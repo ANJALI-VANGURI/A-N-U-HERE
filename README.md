@@ -70,7 +70,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-n-u-vanguri&theme=2077" alt="Profile Summary">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-N-U-HERE&theme=2077" alt="Profile Summary">
 </td>
 </tr>
 </table>
@@ -78,10 +78,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rA-N-U-HERE&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=A-N-U-HERE&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=a-n-u-vanguri&theme=midnight-purple" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-N-U-HERE&theme=midnight-purple" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
