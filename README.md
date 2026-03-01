@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm ANU</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm ANJALI VANGURI </h1>
 <h3 align="center">an aspiring AI enthusiast </h3>
 
 <br/>
@@ -92,3 +92,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
+
